@@ -1,2 +1,2 @@
-print(ololo)
-print(Nya nya nya)
+print(Hello;)
+print(Hello, world!;)
